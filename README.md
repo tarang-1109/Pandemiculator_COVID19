@@ -20,7 +20,9 @@ The	following	methodology	is	followed:
 
 • Development	of	python	code	and	implementation	of model	on	datasets	
 
-• Scenario	in	India	• Prediction	based	on	clinical,	population	and	epidemiology	parameters
+• Scenario	in	India	
+
+• Prediction	based	on	clinical,	population	and	epidemiology	parameters
 
 Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	future	date	if	lockdown	is	imposed	and	infected	people	without	lockdown.	The	tool	will	also	be	able	to	predict	the	dates	at	which	lockdown	may	be	lifted	or	phases.	The	tool	will	also	cluster	the	population	into	high-risk,	medium-risk	and low-risk	population	so	that	the	testing	of	the	high-risk	population	can	be	prioritized.	The	clusters	will	also	be	useful	once	we	have	the	vaccine.	The	vaccine	can	be	introduced	to	high-risk	cluster	first.	
 
