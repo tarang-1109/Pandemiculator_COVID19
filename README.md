@@ -26,13 +26,20 @@ The	following	methodology	is	followed:
 
 Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	future	date	if	lockdown	is	imposed	and	infected	people	without	lockdown.	The	tool	will	also	be	able	to	predict	the	dates	at	which	lockdown	may	be	lifted	or	phases.	The	tool	will	also	cluster	the	population	into	high-risk,	medium-risk	and low-risk	population	so	that	the	testing	of	the	high-risk	population	can	be	prioritized.	The	clusters	will	also	be	useful	once	we	have	the	vaccine.	The	vaccine	can	be	introduced	to	high-risk	cluster	first.	
 
-## Dataset Used:
+## Data Source:
+
+### Dataset
 
 * Ministry	of	Health	and	Family	Welfare	,	Govt.	of	India	official	data : https://data.gov.in/major-indicator/covid-19-india-data-source-mohfw	
 
 * Crowdsourced	COVID19-India	:	Patient	Database : https://www.covid19india.org		
 
 * A	hub	of	Public	Datasets	for	Research	&	Innovation	on	Coronavirus : https://innovate.mygov.in/covid19/	
+
+### SpreadSheet
+
+* https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml#
+
   
   
   
