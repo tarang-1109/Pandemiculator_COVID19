@@ -4,18 +4,12 @@
 We are developing a tool which is used for calculating the rate of infection spreding in India due to COVID -19 (Coronavirus).
 Our	tool	is	based	on	using	a	mathematical	epidemic	model	to	predict	the	number	of	cases	infected	with	COVID-19	(SARS-nCOV-2	virus	caused	disease).	The	goal	is	to	predict	the	number	of	infected	cases	in	a	population	based	on	SEIR	model	to	help	the	agencies	better	understand,	mitigate,	and	suppress	its	spread.	The	model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t),	and	number	of	people	who	have	recovered	R(t).	
 
+### SEIR Model
 ![SEIR Model](/images/SEIR.png)
 
-
-SEIR without vital dynamics
 In a closed population with no births or deaths, the SEIR model becomes:
 
-\begin{aligned}
-\frac{dS}{dt} & = -\frac{\beta SI}{N}\\
-\frac{dE}{dt} & = \frac{\beta SI}{N} - \sigma E\\
-\frac{dI}{dt} & = \sigma E - \gamma I\\
-\frac{dR}{dt} & = \gamma I
-\end{aligned}
+![](/images/model.png)
 
 where N = S + E + I + R is the total population.
 
