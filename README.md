@@ -64,6 +64,22 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 ### JSON File
 
 * https://api.covid19india.org/raw_data.json
+
+## Reference 
+
+1) https://www.kaggle.com/allen-institute-for-ai/CORD-19-researchchallenge/tasks	
+
+2) Peng,	Liangrong,	Wuyue	Yang,	Dongyan	Zhang,	Changjing	Zhuge,	and	Liu	Hong.	"Epidemic	analysis	of	COVID-19	in	China	by	dynamical	modeling."	arXiv	preprint	arXiv:2002.06563	(2020).	
+
+3) https://www.eetindia.co.in/Covid-19-The-Power-of-AI-and-Big-Data/	
+
+4) https://en.wikipedia.org/wiki/Kermack–McKendrick_theory	
+
+5) Age-structured	impact	of	social	distancing	on	the	COVID-19	epidemic	in	India	:	Rajesh	Singh,	R.	Adhikari	(https://arxiv.org/abs/2003.12055)
+
+6) SEIR	and	Regression	Model	based	COVID-19	outbreak	predictions	in	India	Gaurav	Pandey,	Poonam	Chaudhary,	Rajan	Gupta,	Saibal	Pal	(https:// arxiv.org/abs/2004.00958)	
+
+7) Nguyen,	Chantal,	and	Jean	M.	Carlson.	"Optimizing	real-time	vaccine	allocation	in	a	stochastic	SIR	model."	PloS	one	11,	no.	4	(2016).	
   
   
   
