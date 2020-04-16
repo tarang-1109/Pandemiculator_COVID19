@@ -1,7 +1,6 @@
 # Pandemiculator_COVID19
 ## Pandemiculator
 
-We are developing a tool which is used for calculating the rate of infection spreding in India due to COVID -19 (Coronavirus).
 Our	tool	is	based	on	using	a	mathematical	epidemic	model	to	predict	the	number	of	cases	infected	with	COVID-19	(SARS-nCOV-2	virus	caused	disease).	The	goal	is	to	predict	the	number	of	infected	cases	in	a	population	based	on	SEIR	model	to	help	the	agencies	better	understand,	mitigate,	and	suppress	its	spread.	The	model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t),	and	number	of	people	who	have	recovered	R(t).	
 
 ### SEIR Model
