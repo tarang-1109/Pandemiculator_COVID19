@@ -4,7 +4,7 @@
 Our	tool	is	based	on	using	a	mathematical	epidemic	model	to	predict	the	number	of	cases	infected	with	COVID-19	(SARS-nCOV-2	virus	caused	disease).	The	goal	is	to	predict	the	number	of	infected	cases	in	a	population	based	on	SEIR	model	to	help	the	agencies	better	understand,	mitigate,	and	suppress	its	spread.	The	model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t), number of dead people D(t) and number	of	people	who	have	recovered	R(t).	
 
 ### SEIRD Model
-![SEIRD Model](/images/SEIR.png)
+![SEIRD Model](/images/SEIRD.png)
 
 In a closed population with no births or deaths, the SEIR model becomes:
 
@@ -22,7 +22,7 @@ The	following	methodology	is	followed:
 
 • Trend	analysis	
 
-• Applying	SEIR	model	with	lockdown/wothout	lockdown	parameters	
+• Applying	SEIRD	model	with	lockdown/wothout	lockdown	parameters	
 
 • Factors	of	model	parameters	
 
@@ -38,7 +38,7 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 
 ## Expected	Outcome
 
-1)  A	tool	for	epidemic	calculator	based	on	python	based	on	SEIR	model	
+1)  A	tool	for	epidemic	calculator	based	on	python	based	on	SEIRD	model	
 
 2)  The	tool	has	prediction	capability	with	lockdown	and	without	lockdown	options	
 
