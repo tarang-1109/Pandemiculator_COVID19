@@ -78,7 +78,9 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 
 6) SEIR	and	Regression	Model	based	COVID-19	outbreak	predictions	in	India	Gaurav	Pandey,	Poonam	Chaudhary,	Rajan	Gupta,	Saibal	Pal	(https:// arxiv.org/abs/2004.00958)	
 
-7) Nguyen,	Chantal,	and	Jean	M.	Carlson.	"Optimizing	real-time	vaccine	allocation	in	a	stochastic	SIR	model."	PloS	one	11,	no.	4	(2016).	
+7) SEIRD model for COVID-19 (https://medium.com/@djconnel_14663/seird-model-of-covid-19-596e6754c2c4)
+
+8) Nguyen, Chantal, and Jean M. Carlson. "Optimizing real-time vaccine allocation in a stochastic SIR model." PloS one 11, no. 4 (2016).
   
   
   
