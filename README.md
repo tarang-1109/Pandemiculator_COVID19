@@ -6,7 +6,7 @@ Our	tool	is	based	on	using	a	mathematical	epidemic	model	to	predict	the	number	o
 ### SEIRD Model
 ![SEIRD Model](/images/SEIRD.png)
 
-In a closed population with no births or deaths, the SEIR model becomes:
+In a closed population with no births or deaths, the SEIRD model becomes:
 
 ![](/images/model.png)
 
