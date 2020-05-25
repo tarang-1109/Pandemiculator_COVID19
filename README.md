@@ -3,8 +3,23 @@
 
 Our	tool	is	based	on	using	a	mathematical	epidemic	model	to	predict	the	number	of	cases	infected	with	COVID-19	(SARS-nCOV-2	virus	caused	disease).	The	goal	is	to	predict	the	number	of	infected	cases	in	a	population	based	on	SEIRD	model	to	help	the	agencies	better	understand,	mitigate,	and	suppress	its	spread.	The	model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t), number of dead people D(t) and number	of	people	who	have	recovered	R(t).	
 
+## Curret Senario of COVID-19 in India
+
 ### SEIRD Model
 ![SEIRD Model](/images/SEIRD.png)
+
+![](/images/daily.PNG)
+
+![](/images/total.PNG)
+
+![](/images/state_daily.png)
+
+![](/images/donut.PNG)
+
+![](/images/pi.PNG)
+
+
+
 
 In a closed population with no births or deaths, the SEIRD model becomes:
 
