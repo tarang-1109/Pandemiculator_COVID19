@@ -50,6 +50,10 @@ where N = S + E + I + R + D is the total population.
 SEIRD Model on Indian Data
 ![](/images/SEIRV.png)
 
+Mathematical Models (SEIRV)
+![](/images/SEIRV_model.png)
+
+
 
 ## Expected	Outcome
 
