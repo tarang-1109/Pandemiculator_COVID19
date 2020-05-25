@@ -1,41 +1,7 @@
 # Pandemiculator_COVID19
 ## Pandemiculator
 
-Our	tool	is	based	on	using	a	mathematical	epidemic	model	to	predict	the	number	of	cases	infected	with	COVID-19	(SARS-nCOV-2	virus	caused	disease).	The	goal	is	to	predict	the	number	of	infected	cases	in	a	population	based	on	SEIRD	model	to	help	the	agencies	better	understand,	mitigate,	and	suppress	its	spread.	The	model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t), number of dead people D(t) and number	of	people	who	have	recovered	R(t).	
-
-
-
-### SEIRD Model
-![SEIRD Model](/images/SEIRD.png)
-
-### Curret Senario of COVID-19 in India
-
-COVID-19 Cases increasing daily 
-![](/images/daily.PNG)
-
-Total Cases in Inia : Confiremed , Recoved  and deceased 
-![](/images/total.PNG)
-
-State wise daily COVID-19 Cases 
-
-![](/images/state_daily.png)
-
-Donut Chat of all Cases in India
-
-![](/images/donut.PNG)
-
-Pi Chart of all Cases in India
-
-![](/images/pi.PNG)
-
-
-
-
-In a closed population with no births or deaths, the SEIRD model becomes:
-
-![](/images/model.png)
-
-where N = S + E + I + R + D is the total population.
+Pandemiculator (Pandemic Calculator) is based on using statistical and mathematical epidemic models to predict the number of cases infected with COVID-19 (SARS-nCOV-2 virus caused disease). The goal is to showcase the current scenario in India and predict the number of infected cases using regression in a population along with the growth factor using mathematical models like SEIRD to help the agencies better understand, mitigate, and suppress its spread. The clustering of population can help in inderstanding risks based on clinical parameters of various age group and also to develop vaccinnation strategy once vaccinne is developed with the help of SEIRV model.
 
 ## Methodology
 
@@ -58,6 +24,40 @@ The	following	methodology	is	followed:
 • Prediction	based	on	clinical,	population	and	epidemiology	parameters
 
 Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	future	date	if	lockdown	is	imposed	and	infected	people	without	lockdown.	The	tool	will	also	be	able	to	predict	the	dates	at	which	lockdown	may	be	lifted	or	phases.	The	tool	will	also	cluster	the	population	into	high-risk,	medium-risk	and low-risk	population	so	that	the	testing	of	the	high-risk	population	can	be	prioritized.	The	clusters	will	also	be	useful	once	we	have	the	vaccine.	The	vaccine	can	be	introduced	to	high-risk	cluster	first.	
+
+
+### Curret Senario of COVID-19 in India
+
+COVID-19 Cases increasing daily 
+![](/images/daily.PNG)
+
+Total Cases in Inia : Confiremed , Recoved  and deceased 
+![](/images/total.PNG)
+
+State wise daily COVID-19 Cases 
+
+![](/images/state_daily.png)
+
+Donut Chat of all Cases in India
+
+![](/images/donut.PNG)
+
+Pi Chart of all Cases in India
+
+![](/images/pi.PNG)
+
+### SEIRD Model
+The	SEIRD Model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t), number of dead people D(t) and number	of	people	who	have	recovered	R(t).	
+
+![SEIRD Model](/images/SEIRD.png)
+
+
+In a closed population with no births or deaths, the SEIRD model becomes:
+
+![](/images/model.png)
+
+where N = S + E + I + R + D is the total population.
+
 
 
 
