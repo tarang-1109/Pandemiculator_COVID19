@@ -23,6 +23,8 @@ The	following	methodology	is	followed:
 
 • Prediction	based	on	clinical,	population	and	epidemiology	parameters
 
+![](/images/story.png)
+
 Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	future	date	if	lockdown	is	imposed	and	infected	people	without	lockdown.	The	tool	will	also	be	able	to	predict	the	dates	at	which	lockdown	may	be	lifted	or	phases.	The	tool	will	also	cluster	the	population	into	high-risk,	medium-risk	and low-risk	population	so	that	the	testing	of	the	high-risk	population	can	be	prioritized.	The	clusters	will	also	be	useful	once	we	have	the	vaccine.	The	vaccine	can	be	introduced	to	high-risk	cluster	first.	
 
 
@@ -47,14 +49,25 @@ In a closed population with no births or deaths, the SEIRD model becomes:
 
 where N = S + E + I + R + D is the total population.
 
-SEIRD Model on Indian Data
+## SEIRD Model on Indian Data
 ![](/images/SEIRV.png)
 
-Mathematical Models (SEIRV)
+## Mathematical Models (SEIRV)
 ![](/images/SEIRV_model.png)
 
+# Regression Model
 
-## Clustring Model
+![](/images/regression_graph.png)
+
+
+# Clustring Model
+
+* The purpose of clustering is for preferential vaccination.
+* Centroid based clustering.
+* K-means clustering algorithm.
+* Functional properties considered are.. Age, Clinical Symptoms, Medical history
+
+![](/images/cluster_3d.png)
 
 
 
