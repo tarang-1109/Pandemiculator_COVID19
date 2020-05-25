@@ -1,4 +1,4 @@
-# Pandemiculator_COVID19
+# Pandemiculator : A Pandemic calculator for estimating population epidemiology scenario in India
 ## Pandemiculator
 
 Pandemiculator (Pandemic Calculator) is based on using statistical and mathematical epidemic models to predict the number of cases infected with COVID-19 (SARS-nCOV-2 virus caused disease). The goal is to showcase the current scenario in India and predict the number of infected cases using regression in a population along with the growth factor using mathematical models like SEIRD to help the agencies better understand, mitigate, and suppress its spread. The clustering of population can help in inderstanding risks based on clinical parameters of various age group and also to develop vaccinnation strategy once vaccinne is developed with the help of SEIRV model.
@@ -32,8 +32,6 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 ![](/images/Daily_update.png)
 
  Live Update of COVID-19 on India Map
-
-
 ![](/images/India_Map.png)
 
 
@@ -49,7 +47,7 @@ In a closed population with no births or deaths, the SEIRD model becomes:
 
 where N = S + E + I + R + D is the total population.
 
-
+![](/images/SEIRD.png)
 
 
 ## Expected	Outcome
