@@ -28,9 +28,10 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 
 ### Curret Senario of COVID-19 in India
 
-
+ Live Update of COVID-19 in India Graphical Representation 
 ![](/images/Daily_update.png)
 
+ Live Update of COVID-19 on India Map
 
 
 ![](/images/India_Map.png)
