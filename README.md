@@ -28,23 +28,13 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 
 ### Curret Senario of COVID-19 in India
 
-COVID-19 Cases increasing daily 
-![](/images/daily.PNG)
 
-Total Cases in Inia : Confiremed , Recoved  and deceased 
-![](/images/total.PNG)
+![](/images/Daily_update.png)
 
-State wise daily COVID-19 Cases 
 
-![](/images/state_daily.png)
 
-Donut Chat of all Cases in India
+![](/images/India_Map.png)
 
-![](/images/donut.PNG)
-
-Pi Chart of all Cases in India
-
-![](/images/pi.PNG)
 
 ### SEIRD Model
 The	SEIRD Model	uses	coupled	equations	analyzing	the	number	of	susceptible	people	S(t),	number	of	people	infected	I(t), number of dead people D(t) and number	of	people	who	have	recovered	R(t).	
