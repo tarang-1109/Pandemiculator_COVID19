@@ -143,6 +143,11 @@ pc = 1 − (1/R0)
 
 8) Nguyen, Chantal, and Jean M. Carlson. "Optimizing real-time vaccine allocation in a stochastic SIR model." PloS one 11, no. 4 (2016).
   
+9) https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
+
+10) https://www.healthline.com/health/r-nought-reproduction-number#conditions-it-measures
+
+11) https://web.stanford.edu/~jhj1/teachingdocs/Jones-Epidemics050308.pdf
   
   
   
