@@ -22,7 +22,6 @@ The	following	methodology	is	followed:
 • Scenario	in	India	
 
 • Prediction	based	on	clinical,	population	and	epidemiology	parameters
-
 ![](/images/story.png)
 
 Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	future	date	if	lockdown	is	imposed	and	infected	people	without	lockdown.	The	tool	will	also	be	able	to	predict	the	dates	at	which	lockdown	may	be	lifted	or	phases.	The	tool	will	also	cluster	the	population	into	high-risk,	medium-risk	and low-risk	population	so	that	the	testing	of	the	high-risk	population	can	be	prioritized.	The	clusters	will	also	be	useful	once	we	have	the	vaccine.	The	vaccine	can	be	introduced	to	high-risk	cluster	first.	
@@ -30,10 +29,10 @@ Our	tool	will	predict	the	number	of	infected	people	in	a	given	population	in	a	f
 
 ### Curret Senario of COVID-19 in India
 
- Live Update of COVID-19 in India Graphical Representation 
+ #### Live Update of COVID-19 in India Graphical Representation 
 ![](/images/Daily_update.png)
 
- Live Update of COVID-19 on India Map
+ #### Live Update of COVID-19 on India Map
 ![](/images/India_Map.png)
 
 
