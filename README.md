@@ -51,7 +51,16 @@ where N = S + E + I + R + D is the total population.
 ## SEIRD Model on Indian Data
 ![](/images/SEIRV.png)
 
-## Mathematical Models (SEIRV)
+## VACCINATION STRATEGY USING SEIRV MODEL
+We can successfully immunize a fraction 0 < p ≤ 1 of the population Define Rt to be the reproduction number of the immunized population
+
+Rt ≤ R0(1−p) Since our threshold criterion is for Rt < 1,
+
+we can easily solve this inequality for p
+
+Denote the critical fraction successfully immunized as pc
+
+pc = 1 − (1/R0)
 ![](/images/SEIRV_model.png)
 
 # Regression Model
