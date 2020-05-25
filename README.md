@@ -59,12 +59,15 @@ Ro determines the final size of the epidemic (i.e., what fraction of susceptible
 Ro determines the endemic equilibrium fraction of susceptibles in the population (= 1/Ro)
 Ro determines the critical vaccination threshold (= 1/Ro)
 
-![](/images/Ro Variation.png)
+![](/images/RoVariation.png)
 
 ## SEIRD Model on Indian Data
 ![](/images/SEIRV.png)
 
 ## VACCINATION STRATEGY USING SEIRV MODEL
+
+![](/images/vaccination.PNG)
+
 We can successfully immunize a fraction 0 < p ≤ 1 of the population Define Rt to be the reproduction number of the immunized population
 
 Rt ≤ R0(1−p) Since our threshold criterion is for Rt < 1,
@@ -74,8 +77,6 @@ we can easily solve this inequality for p
 Denote the critical fraction successfully immunized as pc
 
 pc = 1 − (1/R0)
-
-![](/images/vaccination.PNG)
 
 ![](/images/SEIRV_model.png)
 
@@ -92,19 +93,6 @@ pc = 1 − (1/R0)
 * Functional properties considered are.. Age, Clinical Symptoms, Medical history
 
 ![](/images/cluster_3d.png)
-
-
-
-
-## Expected	Outcome
-
-1)  A	tool	for	epidemic	calculator	based	on	python	based	on	SEIRD	model	
-
-2)  The	tool	has	prediction	capability	with	lockdown	and	without	lockdown	options	
-
-3)  Clustering	of	the	exposed	population	based	on	High-risk,	medium-risk	and	low-risk	based	on	various	based	on	various	clinical,	population	and	epidemiology	parameters	
-
-4)  Prediction	of	the	optimal	way	to	test	the	population	as	well	as	optimal	way	of	vaccination	once	vaccine	is	available
 
 ## Result 
 * The live data of Indian significance from Covid19.org was fetched
