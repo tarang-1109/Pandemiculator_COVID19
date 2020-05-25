@@ -47,7 +47,8 @@ In a closed population with no births or deaths, the SEIRD model becomes:
 
 where N = S + E + I + R + D is the total population.
 
-![](/images/SEIRD.png)
+SEIRD Model on Indian Data
+![](/images/SEIRV.png)
 
 
 ## Expected	Outcome
